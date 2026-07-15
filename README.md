@@ -1,5 +1,3 @@
----
-
 ## ▶️ Como Executar
 
 Para iniciar a simulação, abra o terminal no diretório do projeto e execute o script principal:
